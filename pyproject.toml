@@ -5,7 +5,7 @@ description = "A TDD kata: FizzBuzz, from notebook exploration to a tested, publ
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
-authors = [{ name = "Your Name", email = "you@example.com" }]
+authors = [{ name = "Adrien Vouliot", email = "adrien.vouliot@univ-lille.fr" }]
 
 [build-system]
 requires = ["hatchling"]
